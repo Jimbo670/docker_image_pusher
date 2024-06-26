@@ -1,2 +1,2 @@
 nastool/nas-tools:latest
-library/tomcat:master
+jeessy2/ddns-go:master
