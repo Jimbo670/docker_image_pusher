@@ -1,1 +1,1 @@
-docker-library/tomcat:master
+jeessy2/ddns-go
