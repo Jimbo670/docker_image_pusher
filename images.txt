@@ -1,2 +1,2 @@
 nastool/nas-tools:latest
-docker-library/tomcat:master
+docker-library/tomcat
