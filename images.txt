@@ -1,1 +1,6 @@
-library/tomcat
+linuxserver/qbittorrent
+herberthe0229/iptv-sources
+nyanmisaka/jellyfin
+xiaoyaliu/alist
+xhofe/alist
+linuxserver/jellyfin
