@@ -4,3 +4,4 @@ nyanmisaka/jellyfin
 xiaoyaliu/alist
 xhofe/alist
 linuxserver/jellyfin
+dreamacro/clash
