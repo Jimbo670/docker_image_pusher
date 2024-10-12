@@ -5,3 +5,4 @@ xiaoyaliu/alist
 xhofe/alist
 linuxserver/jellyfin
 dreamacro/clash
+haishanh/yacd
