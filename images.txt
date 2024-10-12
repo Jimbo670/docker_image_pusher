@@ -6,5 +6,5 @@ xhofe/alist
 linuxserver/jellyfin
 dreamacro/clash
 haishanh/yacd
-ivanfioravanti/chatbot-ollama
 ollama/ollama
+ivanfioravanti/chatbot-ollama
