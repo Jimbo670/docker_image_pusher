@@ -7,5 +7,4 @@ linuxserver/jellyfin
 dreamacro/clash
 haishanh/yacd
 ollama/ollama
-ivanfioravanti/chatbot-ollama
 oddrationale/docker-shadowsocks
