@@ -9,3 +9,4 @@ haishanh/yacd
 ollama/ollama
 oddrationale/docker-shadowsocks
 ivanfioravanti/chatbot-ollama:main
+Jimbo670/tduck-platform
