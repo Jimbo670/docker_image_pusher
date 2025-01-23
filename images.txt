@@ -1,12 +1,2 @@
-linuxserver/qbittorrent
-herberthe0229/iptv-sources
-nyanmisaka/jellyfin
-xiaoyaliu/alist
-xhofe/alist
+jellyfin/jellyfin
 linuxserver/jellyfin
-dreamacro/clash
-haishanh/yacd
-ollama/ollama
-oddrationale/docker-shadowsocks
-ivanfioravanti/chatbot-ollama:main
-Jimbo670/tduck-platform
