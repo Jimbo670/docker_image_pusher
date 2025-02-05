@@ -1,3 +1,1 @@
-jellyfin/jellyfin
-linuxserver/jellyfin
-Jimbo670/iptv-sources
+HerbertHe/iptv-sources
