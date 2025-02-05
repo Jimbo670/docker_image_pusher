@@ -1,2 +1,3 @@
 jellyfin/jellyfin
 linuxserver/jellyfin
+HerbertHe/iptv-sources:main
