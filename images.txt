@@ -1,1 +1,1 @@
-HerbertHe/iptv-sources:main
+gh repo clone Jimbo670/iptv-sources
