@@ -1,1 +1,1 @@
-xushier/swingmusice
+xushier/swingmusic:latest
