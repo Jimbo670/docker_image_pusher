@@ -1,1 +1,1 @@
-xushier/swingmusic:latest
+idootop/mi-gpt
