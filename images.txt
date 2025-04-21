@@ -1,1 +1,1 @@
-bestzwei/libretv:latest
+80x86/typecho:latest
