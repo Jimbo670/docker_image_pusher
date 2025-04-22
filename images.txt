@@ -1,1 +1,1 @@
-zammad/zammad:latest
+deluan/navidrome:latest
