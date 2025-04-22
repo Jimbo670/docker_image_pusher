@@ -1,1 +1,1 @@
-zammad/zzammad:latest
+zammad/zammad:latest
