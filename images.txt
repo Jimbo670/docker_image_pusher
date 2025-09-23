@@ -1,1 +1,2 @@
 oaooa/pichome:latest
+linuxserver/mariadb:latest
