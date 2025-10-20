@@ -1,1 +1,2 @@
-alist666/alist:beta
+$ git clone https://github.com/alist-org/alist.git
+$ git clone --recurse-submodules https://github.com/alist-org/alist-web.git
