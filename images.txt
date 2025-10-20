@@ -1,1 +1,1 @@
-AlistGo/alist：main
+gh repo clone Jimbo670/alist
