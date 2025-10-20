@@ -1,1 +1,1 @@
-AlistGo/alist:main
+AlistGo/alist
