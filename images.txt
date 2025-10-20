@@ -1,1 +1,1 @@
-gh repo clone Jimbo670/alist
+xhofe/alist:latest
