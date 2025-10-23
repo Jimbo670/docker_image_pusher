@@ -1,1 +1,1 @@
-qbittorrent/qBittorrent
+nyanmisaka/jellyfin:latest
